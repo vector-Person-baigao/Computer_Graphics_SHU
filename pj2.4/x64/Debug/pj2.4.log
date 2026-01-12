@@ -1,0 +1,76 @@
+﻿  Actions.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Actions.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Actions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Actions.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ScanlineAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Actions.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ClipAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Actions.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Actions.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Actions.cpp(386,25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Actions.cpp(553,25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Actions.cpp(728,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ActionsObjects.cpp
+  Arc_Midpoint.cpp
+  Bezier_deCasteljau.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bezier_deCasteljau.cpp(40,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Bspline.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(39,64): warning C4244: “=”: 从“unsigned __int64”转换到“_Ty”，可能丢失数据
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(39,64): warning C4244:         with
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(39,64): warning C4244:         [
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(39,64): warning C4244:             _Ty=double
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(39,64): warning C4244:         ]
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(40,27): warning C4244: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(40,27): warning C4244:         with
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(40,27): warning C4244:         [
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(40,27): warning C4244:             _Ty=double
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(40,27): warning C4244:         ]
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\Bspline.cpp(67,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Circle_Midpoint.cpp
+  ClipAlgorithms.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ClipAlgorithms.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ClipAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Algorithms/ClipAlgorithms.cpp”)
+  
+  Line_Bersenham.cpp
+  ScanlineAlgorithms.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ScanlineAlgorithms.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ScanlineAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Algorithms/ScanlineAlgorithms.cpp”)
+  
+  fruit_ninja.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/fruit_ninja.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.cpp(825,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.cpp(840,31): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.cpp(1162,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.cpp(1301,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  GraphicsEngine.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\GraphicsEngine.cpp(180,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Actions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/main.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ScanlineAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/main.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ClipAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/main.cpp”)
+  
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\fruit_ninja.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/main.cpp”)
+  
+  Objects.cpp
+E:\上大\C++\计算机图形学\小组任务\pj2.4.1\graphic\Algorithms\ScanlineAlgorithms.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../graphic/Objects.cpp”)
+  
+  Point.cpp
+  正在生成代码...
+  pj2.4.vcxproj -> E:\上大\C++\计算机图形学\小组任务\pj2.4.1\x64\Debug\pj2.4.exe
